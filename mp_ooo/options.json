@@ -1,0 +1,22 @@
+{
+    "clock": 1750,
+    "c_ext": false,
+    "f_ext": false,
+    "bmem_0_on_x": true,
+    "dw_ip": [
+        "DW_div_pipe",
+        "DW_div_seq",
+        "DW_div",
+        "DW_mult_pipe",
+        "DW02_mult"
+    ],
+    "verilator": false,
+    "synth": {
+        "compile_ultra": true,
+        "ungroup": false,
+        "gate_clock": true,
+        "retime": true,
+        "min_power": false,
+        "inc_iter": 0
+    }
+}

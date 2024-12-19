@@ -1,0 +1,2 @@
+verdiWindowResize -win $_Verdi_1 "191" "65" "1600" "921"
+debExit
